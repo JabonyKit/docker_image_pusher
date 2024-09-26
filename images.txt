@@ -7,3 +7,4 @@ xhofe/alist:latest
 redis:7.4.0
 mysql:8.4.2
 ubuntu/python:3.10-22.04_stable
+ubuntu:trusty
