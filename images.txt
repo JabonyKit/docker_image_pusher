@@ -13,7 +13,7 @@
 
 # 海诺
 redis:7.0.0 
-nacos:2.0.4
+nacos:v2.0.4
 nginx
 mysql:5.7.26
 openjdk:8-jre
