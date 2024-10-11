@@ -24,7 +24,7 @@
 #portainer/portainer
 #postgres
 #python
-consul
+consul:1.15.4
 rabbitmq
 gitlab
 pgadmin
