@@ -6,24 +6,24 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-redis:7.4.0
-mysql:8.4.2
-ubuntu/python:3.10-22.04_stable
-ubuntu:trusty
+#redis:7.4.0
+#mysql:8.4.2
+#ubuntu/python:3.10-22.04_stable
+#ubuntu:trusty
 
 # 海诺
-redis:7.0.0 
-nginx
-mysql:5.7.26
-openjdk:8-jre
-nacos/nacos-server:v2.0.4
+#redis:7.0.0 
+#nginx
+#mysql:5.7.26
+#openjdk:8-jre
+#nacos/nacos-server:v2.0.4
 
 # 库存
-emqx
-sentry
-portainer/portainer
-postgres
-python
+#emqx
+#sentry
+#portainer/portainer
+#postgres
+#python
 consul
 rabbitmq
 gitlab
