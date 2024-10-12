@@ -24,7 +24,7 @@
 #portainer/portainer
 #postgres
 #python
-consul:1.15.4
+#consul:1.15.4
 rabbitmq
 gitlab
 pgadmin
@@ -35,3 +35,4 @@ xhofe/alist
 ljdyw/ubuntu-novnc
 lissy93/dashy
 johngong/baidunetdisk
+portainer/portainer-ce
