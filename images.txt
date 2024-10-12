@@ -26,7 +26,7 @@
 #python
 #consul:1.15.4
 #rabbitmq
-gitlab
+#gitlab
 #pgadmin
 #Halo
 #jc21/nginx-proxy-manager
