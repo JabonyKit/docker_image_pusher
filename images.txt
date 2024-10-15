@@ -35,4 +35,5 @@
 #ljdyw/ubuntu-novnc
 #lissy93/dashy
 #johngong/baidunetdisk
-portainer/portainer-ce
+#portainer/portainer-ce
+minio/minio
