@@ -36,4 +36,5 @@
 #lissy93/dashy
 #johngong/baidunetdisk
 #portainer/portainer-ce
-minio/minio
+#minio/minio
+nacos/nacos-server:v2.4.2
