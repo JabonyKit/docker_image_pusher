@@ -38,3 +38,5 @@
 #portainer/portainer-ce
 #minio/minio
 nacos/nacos-server:v2.4.2
+#onlyoffice/documentserver
+onlyoffice/documentserver
